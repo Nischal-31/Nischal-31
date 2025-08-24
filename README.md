@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Smart Room Project – human presence detection using sensors**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-h1my.onrender.com/](https://portfolio-h1my.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://www.nischalmoktan.com.np/](https://www.nischalmoktan.com.np/)
 
 - 💬 Ask me about **React, Vue, GSAP, Python, Full Stack Development**
 
