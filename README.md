@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nischal Moktan</h1>
-<h3 align="center">A passionate fullstack developer from Nepal.</h3>
+<h3 align="center">DevOps Engineer & Python Backend Developer from Nepal 🇳🇵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nischal-31&label=Profile%20views&color=0e75b6&style=flat" alt="nischal-31" /> </p>
+- 🔭 I’m currently working on **Cloud Infrastructure, Backend Development, and CI/CD Automation**
 
-- 🔭 I’m currently working on **Django Project – building web applications with Django**
+- 🌱 I’m currently learning **AWS, Linux, Docker, Kubernetes, Terraform, Ansible, and Google Cloud**
 
-- 🌱 I’m currently learning **FastAPI, Flutter, PostgreSQL, Django**
+- 👯 I’m looking to collaborate on **DevOps, Cloud, Infrastructure Automation, and Backend Projects**
 
-- 👯 I’m looking to collaborate on **Flutter Development – mobile app projects**
+- 👨‍💻 Portfolio: **https://www.nischalmoktan.com.np/**
 
-- 👨‍💻 All of my projects are available at [https://www.nischalmoktan.com.np/](https://www.nischalmoktan.com.np/)
+- 💬 Ask me about **Python, Django, FastAPI, Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Git, GitHub Actions, Jenkins, CI/CD, and Cloud Computing**
 
-- 💬 Ask me about **Python, Full Stack Development**
+- 📫 How to reach me: **nischal123321@gmail.com**
 
-- 📫 How to reach me **nischal123321@gmail.com**
+- ⚡ Fun fact: **I enjoy automating infrastructure, building scalable backend systems, and deploying cloud-native applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
