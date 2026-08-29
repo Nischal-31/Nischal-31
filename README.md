@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischal Moktan</h1>
-<h3 align="center">DevOps Engineer & Backend Developer from Nepal 🇳🇵</h3>
+<h3 align="center">Backend Developer & DevOps Engineer from Nepal 🇳🇵</h3>
 
 - 🔭 I’m currently working on **Backend Development, Cloud Infrastructure, and CI/CD Automation**
 
