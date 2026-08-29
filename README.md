@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal Moktan</h1>
 <h3 align="center">DevOps Engineer & Backend Developer from Nepal 🇳🇵</h3>
 
-- 🔭 I’m currently working on **Cloud Infrastructure, Backend Development, and CI/CD Automation**
+- 🔭 I’m currently working on **Backend Development, Cloud Infrastructure, and CI/CD Automation**
 
 - 🌱 I’m currently learning **AWS, Linux, Docker, Kubernetes, Terraform, Ansible, and Google Cloud**
 
