@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal Moktan</h1>
-<h3 align="center">Backend Developer & DevOps Engineer from Nepal 🇳🇵</h3>
+<h3 align="center">DevOps Engineer & Backend Developer from Nepal 🇳🇵</h3>
 
-- 🔭 I’m currently working on **Backend Development, Cloud Infrastructure, and CI/CD Automation**
+- 🔭 I’m currently working on **Cloud Infrastructure, Backend Development, and CI/CD Automation**
 
 - 🌱 I’m currently learning **AWS, Linux, Docker, Kubernetes, Terraform, Ansible, and Google Cloud**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio: **https://www.nischalmoktan.com.np/**
 
-- 💬 Ask me about **Java, Python, Django, FastAPI, Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Git, GitHub Actions, Jenkins, CI/CD, and Cloud Computing**
+- 💬 Ask me about **Python, Django, FastAPI, Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Git, GitHub Actions, Jenkins, CI/CD, and Cloud Computing**
 
 - 📫 How to reach me: **nischal.moktan.dev@gmail.com**
 
@@ -23,15 +23,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-</a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -102,5 +93,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/aws-cloudwatch.svg" alt="cloudwatch" width="40" height="40"/>
 </a>
 
+<p align="left">
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+</a>
 </p>
 
